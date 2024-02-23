@@ -1,7 +1,10 @@
+#' Show a picture of Paul Giamatti
+
+#' @export
 show_giamatti <- function() {
 
-  #' @importFrom macgick image_read
+  #' @importFrom magick image_read
 
-  magick::image_read("img/giamatti.jpg")
+  magick::image_read(system.file("img/giamatti.jpg", package = "giamatti"))
 
 }

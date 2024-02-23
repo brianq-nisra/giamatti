@@ -1,3 +1,6 @@
+#' Opens a Google Image Search for pictures of Paul Giamatti
+
+#' @export
 more_giamatti <- function() {
 
   #' @importFrom utils browseURL
