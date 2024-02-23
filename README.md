@@ -23,7 +23,7 @@ This shows how to run the commands within giamatti
 library(giamatti)
 
 # This will return an image of Paul Giamatti to the Viewer
-get_giamatti()
+show_giamatti()
 
 # This will launch a Google Image search of Paul Giamatti in your web browser
 more_giamatti()
