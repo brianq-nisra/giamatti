@@ -4,6 +4,8 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
+![Paul Giamatti at In n Out Burger](https://imagez.tmz.com/image/b3/4by3/2024/01/09/b3cba3865bc7429aab5e887706a88632_md.jpg)
+
 The goal of giamatti is to provide the user with quick and easy access to images of Paul Giamatti
 
 ## Installation
